@@ -9,4 +9,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=team3hailong&show_icons=true&locale=en" alt="team3hailong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=team3hailong&theme=default" alt="team3hailong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=team3hailong&theme=dark" alt="team3hailong" /></p>
